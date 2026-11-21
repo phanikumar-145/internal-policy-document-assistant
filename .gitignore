@@ -1,0 +1,32 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Generated vector indexes and temporary files
+faiss_index/
+vectorstore/
+*.faiss
+*.pkl
+*.index
+temp_pdfs/
+
+# Local caches and Streamlit state
+.cache/
+.streamlit/
+
+# Environment and OS/IDE files
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

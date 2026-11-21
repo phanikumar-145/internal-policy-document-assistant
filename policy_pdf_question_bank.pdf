@@ -1,0 +1,49 @@
+1. leave_policy.pdf
+
+1. How many annual leave days are provided to employees?
+2. How many sick leave days are available each year?
+3. How many casual leave days are available?
+4. What is the process for requesting leave?
+5. Who should an employee contact or notify before taking planned leave?
+6. Are there any rules about carrying unused leave into the next year?
+7. What should an employee do if they need sick leave unexpectedly?
+8. Does the policy specify any approval requirement for leave?
+9. What types of leave are described in this document?
+10. According to the policy, how many total annual, sick, and casual leave days are listed?
+
+2. employee_handbook.pdf
+
+1. What are the normal working days?
+2. What are the official working hours?
+3. What workplace conduct is expected from employees?
+4. What security practices should employees follow?
+5. Does the handbook describe a remote-work policy?
+6. What does the handbook say about business expenses?
+7. What should an employee do to protect company information?
+8. Are employees expected to follow any rules when working remotely?
+9. Which topics are covered in the employee handbook?
+10. What are the start and end times of the normal workday?
+
+3. attendance_policy.pdf
+
+1. How should employees record their attendance?
+2. When should an employee notify someone about a late arrival?
+3. What should an employee do if they expect to be absent?
+4. What should an employee do if they forget to record an attendance entry?
+5. Does the policy specify a late-arrival notification threshold?
+6. Who should employees inform about an absence or late arrival?
+7. What is the process for correcting a missed attendance entry?
+8. What attendance-related responsibilities do employees have?
+9. What situations require employees to notify their manager?
+10. Summarize the main attendance rules described in this document.
+
+4. Questions the assistant should not be able to answer
+
+Ask these after indexing the relevant sample PDFs. The assistant should say that the information could not
+be found in the available policy documents.
+• What is the company's annual bonus amount?
+• How many weeks of paid parental leave are provided?
+• What is the employee's medical insurance provider?
+• What is the company's office address?
+Testing tip: Upload only the PDF named in each section when testing document-specific retrieval. Then ask its
+questions one by one and check that answers include the correct PDF name and page citation
